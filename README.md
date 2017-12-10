@@ -1,0 +1,1 @@
+This project will be based on finding similarity in the job requirement of the candidate as well as ideal candidates for the employer. This project aims to recommend, both employers and job hunters, the candidates and jobs, they will be interested in, respectively.
